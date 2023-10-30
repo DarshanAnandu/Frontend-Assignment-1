@@ -1,7 +1,6 @@
 import React from "react";
 import Header from "./components/Header/Header.jsx";
 import ShowCase from "./components/MainPage/ShowCase.jsx";
-// import Bodycontainer from './components/Bodycontainer.jsx'
 import Navbar from "./components/Navbar/Navbar.jsx";
 import MainPage from "./components/MainPage/MainPage.jsx";
 import { useState } from "react";
@@ -19,7 +18,6 @@ const App = () => {
   return (
     <div className="app">
       <Header openShowCase={openShowCase} />
-      {/* <Bodycontainer /> */}
       <div className="whole-container">
         <Navbar />
         <MainPage />
