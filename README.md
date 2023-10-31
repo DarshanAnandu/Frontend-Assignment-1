@@ -41,7 +41,7 @@ Welcome to the Skill Evaluation Analytics Dashboard project - a challenging fron
 3. **Run the Application**: Start the application by executing `npm start`.
 
 ## Demo
-Curious to see it in action? Explore the live demo of the Skill Evaluation Analytics Dashboard [here](https://your-dashboard-url.com).
+Curious to see it in action? Explore the live demo of the Skill Evaluation Analytics Dashboard [here](https://frontend-assignment-cuvette.netlify.app/).
 
 ## License
 This project is licensed under the MIT License.
