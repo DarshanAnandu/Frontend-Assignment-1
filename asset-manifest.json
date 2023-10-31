@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/frontend-assignment-1/static/css/main.a4cff23a.css",
-    "main.js": "/frontend-assignment-1/static/js/main.d37ac801.js",
-    "static/js/787.a6583570.chunk.js": "/frontend-assignment-1/static/js/787.a6583570.chunk.js",
-    "static/media/greentick.png": "/frontend-assignment-1/static/media/greentick.2e55507e0a3286a7ec1b.png",
-    "static/media/logo.png": "/frontend-assignment-1/static/media/logo.2d364588433f82f4ca9e.png",
-    "static/media/portfolio.png": "/frontend-assignment-1/static/media/portfolio.0841efc1b86a8450f1d1.png",
-    "static/media/htmlLogo.png": "/frontend-assignment-1/static/media/htmlLogo.d6eb25bfe55c2ae39afe.png",
-    "static/media/cv.png": "/frontend-assignment-1/static/media/cv.a35429149d2c3df8b741.png",
-    "static/media/cuvette.svg": "/frontend-assignment-1/static/media/cuvette.c773ea7b16b876945bb159fbc14911f1.svg",
-    "index.html": "/frontend-assignment-1/index.html",
-    "static/media/arrow.svg": "/frontend-assignment-1/static/media/arrow.95addd9e510c4da4efc6914f97d20c5d.svg",
-    "static/media/dashboard.svg": "/frontend-assignment-1/static/media/dashboard.b719fafaa8673c98078e0870282ba4cd.svg",
-    "static/media/skill.svg": "/frontend-assignment-1/static/media/skill.9e172663f4b15b874cfca1c0d73f1e17.svg",
-    "static/media/internship.svg": "/frontend-assignment-1/static/media/internship.f9e14f775a2172d336b6f794b7eb798d.svg",
-    "main.a4cff23a.css.map": "/frontend-assignment-1/static/css/main.a4cff23a.css.map",
-    "main.d37ac801.js.map": "/frontend-assignment-1/static/js/main.d37ac801.js.map",
-    "787.a6583570.chunk.js.map": "/frontend-assignment-1/static/js/787.a6583570.chunk.js.map"
+    "main.css": "./static/css/main.a4cff23a.css",
+    "main.js": "./static/js/main.e4cd99d6.js",
+    "static/js/787.a6583570.chunk.js": "./static/js/787.a6583570.chunk.js",
+    "static/media/greentick.png": "./static/media/greentick.2e55507e0a3286a7ec1b.png",
+    "static/media/logo.png": "./static/media/logo.2d364588433f82f4ca9e.png",
+    "static/media/portfolio.png": "./static/media/portfolio.0841efc1b86a8450f1d1.png",
+    "static/media/htmlLogo.png": "./static/media/htmlLogo.d6eb25bfe55c2ae39afe.png",
+    "static/media/cv.png": "./static/media/cv.a35429149d2c3df8b741.png",
+    "static/media/cuvette.svg": "./static/media/cuvette.c773ea7b16b876945bb159fbc14911f1.svg",
+    "index.html": "./index.html",
+    "static/media/arrow.svg": "./static/media/arrow.95addd9e510c4da4efc6914f97d20c5d.svg",
+    "static/media/dashboard.svg": "./static/media/dashboard.b719fafaa8673c98078e0870282ba4cd.svg",
+    "static/media/skill.svg": "./static/media/skill.9e172663f4b15b874cfca1c0d73f1e17.svg",
+    "static/media/internship.svg": "./static/media/internship.f9e14f775a2172d336b6f794b7eb798d.svg",
+    "main.a4cff23a.css.map": "./static/css/main.a4cff23a.css.map",
+    "main.e4cd99d6.js.map": "./static/js/main.e4cd99d6.js.map",
+    "787.a6583570.chunk.js.map": "./static/js/787.a6583570.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4cff23a.css",
-    "static/js/main.d37ac801.js"
+    "static/js/main.e4cd99d6.js"
   ]
 }
