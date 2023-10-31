@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-assignment-1/static/css/main.26db3c4c.css",
-    "main.js": "/frontend-assignment-1/static/js/main.195c6057.js",
+    "main.css": "/frontend-assignment-1/static/css/main.a4cff23a.css",
+    "main.js": "/frontend-assignment-1/static/js/main.d37ac801.js",
     "static/js/787.a6583570.chunk.js": "/frontend-assignment-1/static/js/787.a6583570.chunk.js",
     "static/media/greentick.png": "/frontend-assignment-1/static/media/greentick.2e55507e0a3286a7ec1b.png",
     "static/media/logo.png": "/frontend-assignment-1/static/media/logo.2d364588433f82f4ca9e.png",
@@ -14,12 +14,12 @@
     "static/media/dashboard.svg": "/frontend-assignment-1/static/media/dashboard.b719fafaa8673c98078e0870282ba4cd.svg",
     "static/media/skill.svg": "/frontend-assignment-1/static/media/skill.9e172663f4b15b874cfca1c0d73f1e17.svg",
     "static/media/internship.svg": "/frontend-assignment-1/static/media/internship.f9e14f775a2172d336b6f794b7eb798d.svg",
-    "main.26db3c4c.css.map": "/frontend-assignment-1/static/css/main.26db3c4c.css.map",
-    "main.195c6057.js.map": "/frontend-assignment-1/static/js/main.195c6057.js.map",
+    "main.a4cff23a.css.map": "/frontend-assignment-1/static/css/main.a4cff23a.css.map",
+    "main.d37ac801.js.map": "/frontend-assignment-1/static/js/main.d37ac801.js.map",
     "787.a6583570.chunk.js.map": "/frontend-assignment-1/static/js/787.a6583570.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26db3c4c.css",
-    "static/js/main.195c6057.js"
+    "static/css/main.a4cff23a.css",
+    "static/js/main.d37ac801.js"
   ]
 }
