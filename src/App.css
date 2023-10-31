@@ -23,6 +23,19 @@ body {
   display: flex;
   height: 100%;
 }
+.others {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+  width: 100%;
+  
+}
+.others p {
+  font-size: 34px;
+  text-align: center;
+  color: #333;
+}
 
 /* header.jsx */
 .Header-container {
@@ -30,11 +43,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position: sticky;
+  top: 0;
   padding: 1rem 3rem;
 
   .cuvette {
     width: 100px;
     height: auto;
+    cursor: pointer;
   }
 
   @media only screen and (max-width: 800px) {
@@ -72,10 +88,14 @@ body {
   align-self: stretch;
   border-right: 1px solid #ebf0f5;
   min-width: 200px;
+  max-width: 13rem;
   padding: 2rem 1rem 0rem 0rem;
   display: flex;
   flex-direction: column;
+  position: sticky;
+  top: 0;
   gap: 0.5rem;
+  z-index: 1;
 
   @media only screen and (max-width: 800px) {
     display: none;
